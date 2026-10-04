@@ -1,1 +1,2 @@
-Este es un ejemplo para el archivo de la rama principal
+El desarrollador 1 realiza una modificacion en el ejemplo para el archivo de la rama principal
+Y tambien agrego el archivoDev1.txt

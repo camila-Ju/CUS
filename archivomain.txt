@@ -1,2 +1,3 @@
-El desarrollador 1 realiza una modificacion en el ejemplo para el archivo de la rama principal
-Y tambien agrego el archivoDev1.txt
+Este es un ejemplo para el archivo de la rama principal
+Se agrego el archivoDev1.txt por el desarrollador 1
+Se agrego el archivoDev2.txt por el desarrollador 2
